@@ -1,0 +1,4 @@
+File count for .
+Text files: 2
+Shell scripts: 9
+C files: 0
