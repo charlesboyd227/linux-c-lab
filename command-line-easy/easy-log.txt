@@ -1,0 +1,16 @@
+Linux Command Line - Easy Level
+
+pwd - displayed my current directory
+ls - listed files in the current directory
+cd - changed directories
+mkdir command-line-easy - created a directory
+touch hello.txt - created a file
+echo "Hello, Linux!" > hello.txt - added text to hello.txt
+cat hello.txt - displayed Hello, Linux!
+cp hello.txt hello-copy.txt - copied hello.txt
+mv hello-copy.txt ../ - moved hello-copy.txt
+rm hello.txt - removed hello.txt
+cat ../hello-copy.txt - displayed Hello, Linux!
+man ls - opened the ls manual
+echo "Test" > test.txt - redirected output to test.txt
+cat test.txt - displayed Test

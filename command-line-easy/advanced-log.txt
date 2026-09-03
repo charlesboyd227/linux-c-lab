@@ -1,0 +1,1 @@
+Advanced Linux commands completed: ping, curl, tree, and alias ll.
