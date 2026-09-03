@@ -34,3 +34,4 @@ Scripts were made executable using:
 
 ```bash
 chmod +x script-name.sh
+Final integration project completed and tested.
